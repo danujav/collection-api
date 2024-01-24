@@ -6,6 +6,7 @@ package list.arraylist;
 */
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class ArrayListDemo {
     public static void main(String[] args) {
@@ -36,5 +37,7 @@ public class ArrayListDemo {
 
         String removed = nameList.remove(0);
         System.out.println(removed);
+
+        List<Double> list3 = new ArrayList<>();
     }
 }
