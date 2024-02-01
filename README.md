@@ -1,1 +1,1 @@
-![collection hierarchy](collection.png)
+![collection hierarchy](collection.jpg)
